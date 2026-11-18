@@ -31,7 +31,12 @@
 
 ## Data flow (the steps that the system will apply on the input in order to get that output)
 
-- access a web page using a url 
-- saves its html
-- extract the urls in that
+
+1) get urls ip from dns
+2) fetch html
+3) extract from html its html
+4) save text in database
+5) extract urls that are in the current web page
+6) Repeat
+
 
