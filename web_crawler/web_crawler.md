@@ -43,5 +43,5 @@
 
 #### first design
 
-<img src="web-crawler.svg">
+<img src="versions/web-crawler2.excalidraw.png">
 
